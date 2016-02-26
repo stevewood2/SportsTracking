@@ -12,7 +12,7 @@
         </p>
 
         <p>        
-           This is something else that needs to be said
+           This is something else that needs to be said, not done yet
         </p>
 
         <p>        
