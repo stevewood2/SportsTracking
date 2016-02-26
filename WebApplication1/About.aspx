@@ -12,7 +12,7 @@
         </p>
 
         <p>        
-           OSI like GITHUB
+           This is something else that needs to be said
         </p>
 
         <p>        
