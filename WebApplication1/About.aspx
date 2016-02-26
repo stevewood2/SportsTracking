@@ -12,7 +12,7 @@
         </p>
 
         <p>        
-            Use this area to provide additional information.
+           OSI like GITHUB
         </p>
 
         <p>        
